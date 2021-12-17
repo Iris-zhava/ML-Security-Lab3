@@ -1,60 +1,60 @@
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log_ascending.txt' mode='w' encoding='UTF-8'>
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+100.0
+99.9913397419243
+99.9913397419243
+99.9913397419243
+99.9913397419243
+99.98267948384861
+80.73958603966398
+77.015675067117
+35.71490430414826
+6.954187234779596
+0.4243526457088421
+0.0
+0.0
+0.0
+0.0
+0.0

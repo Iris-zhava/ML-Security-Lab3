@@ -1,60 +1,60 @@
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
-<_io.TextIOWrapper name='ps_acc_log.txt' mode='w' encoding='UTF-8'>
+100.0
+100.0
+99.98267948384861
+99.98267948384861
+99.97401922577292
+100.0
+100.0
+100.0
+100.0
+92.9678704425392
+72.91937299731532
+86.00502294968389
+92.41361392569499
+92.32701134493809
+0.19918593574088506
+0.23382696804364772
+0.32908980687624495
+0.32908980687624495
+0.0
+0.01732051615138131
+0.03464103230276262
+0.01732051615138131
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
