@@ -1,7 +1,9 @@
 # ML-Security-Lab3
 
-## How to run
-`python pruning.py`
+## How to run good net
+`python goodnet.py test_image_file X`
+
+Here X is a number which means which pruned model you want to use: 2%, 5% or 10% below standard accuracy. Default is 2.
 
 ## Load Data and Test Model
 `python eval.py clean_data_filename poisoned_data_filename model_filename`
@@ -10,6 +12,10 @@
 I prune the last pooling layer (indeed, the convolutional layer before the pooling layer), one channel at a time.
 Channels are removed in decreasing order of activation values computed over the whole validation set of clean images.
 In fact I also pruned them in increasing order as well, and I will give both results in the following.
+
+You can run
+`python pruning.py`
+to prune the bad network.
 
 ### How to prune a single channel?
 By setting the weight of the corresponding channel of the previous convolutional layer to zero. The bias parameters of corresponding channel should be set to zero as well.
